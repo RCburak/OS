@@ -1,7 +1,0 @@
-build/
-*.o
-*.bin
-*.pe
-*.exe
-*.log
-run.bat
